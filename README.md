@@ -5,9 +5,6 @@
 ## 🛠️ Compétences et outils<br>
 - 🔹 **Langages** : Python<br>
 - 🔹 **Outils** : VS Code, Figma<br><br>
-## 🌱 En cours d'apprentissage<br>
-📖 Actuellement en train d'apprendre le Json.  <br>
-
 ## 📫 Me contacter<br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gunner08__/) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/634028304801726484) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matt.chapman76113@gmail.com)
 
