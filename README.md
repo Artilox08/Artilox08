@@ -1,7 +1,7 @@
 # 💫 A propos de moi:
 👋 Hello, je m'appelle Matt! J'ai 17 ans.<br>
 ## 🚀 Plus personnellement<br>
-🎓 Actuellement lycéen en classe de Première avec l'objectif d'un Master en informatique.  <br>💡 Passionné par le développement et la maintenance informatique.  <br>📍 Basé dans la commune de Rouen.<br><br>
+🎓 Actuellement lycéen en classe de Terminale..  <br>💡 Passionné par le développement et la maintenance informatique.  <br>📍 Basé dans la commune de Rouen.<br><br>
 ## 🛠️ Compétences et outils<br>
 - 🔹 **Langages** : Python<br>
 - 🔹 **Outils** : VS Code, Figma<br><br>
